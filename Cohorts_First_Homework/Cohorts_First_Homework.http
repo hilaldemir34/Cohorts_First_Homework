@@ -1,0 +1,6 @@
+@Cohorts_First_Homework_HostAddress = http://localhost:5249
+
+GET {{Cohorts_First_Homework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
