@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cohorts_First_Homework", "Cohorts_First_Homework\Cohorts_First_Homework.csproj", "{67027775-C78B-455E-990F-A0D44F0F1005}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cohorts_Second_Homework", "Cohorts_First_Homework\Cohorts_Second_Homework.csproj", "{67027775-C78B-455E-990F-A0D44F0F1005}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
