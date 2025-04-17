@@ -10,7 +10,10 @@ namespace Cohorts_First_Homework.Services.Concretes
         new Product { Id = 1, Name = "Laptop", Price = 1500, Stock = 10, CreatedAt = DateTime.UtcNow },
         new Product { Id = 2, Name = "Mouse", Price = 30, Stock = 50, CreatedAt = DateTime.UtcNow }
     };
-        //
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public IEnumerable<Product> GetAll() => _products;
 
         public IEnumerable<Product> GetFiltered(string name, decimal? minPrice, decimal? maxPrice, int? stock, string sortBy, string order)
